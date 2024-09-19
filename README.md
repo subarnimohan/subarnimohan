@@ -13,5 +13,6 @@ My name is Subarni. I have a Masters in Analytics from Massey University and a p
 ## Professional Certifications
 - Wiley Certified Data Analyst (2020)
 - Hackwagon's Data Science 101 & 102 (2020,2021)
+- SAS – Massey University Academic Specialisation in Business Analytics for Marketing (2021)
 
 
