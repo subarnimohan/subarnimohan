@@ -9,6 +9,6 @@ areas of Data Analytics, Data Management and Data Modelling.
 💻 Bachelors of Arts (first class. Hons) in Business and Marketing from Coventry University
 
 ## Skills 🛠️
-- Python, SQL, Power Bi
+- Python, SQL, Power Bi, Arc GIS Pro, Power Query, Tableau, SAS
 
 
