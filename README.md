@@ -8,6 +8,7 @@ My name is Subarni. I have a Master's in Analytics from Massey University and a 
 💻 Bachelors of Arts (first class. Hons) in Business and Marketing from Coventry University
 
 ## Achievements 🌱
+- Nominated for the Upstream & Carbon Management Excellence Awards at Wood Mackenzie in Q1 of 2024
 - Certificate of Excellence - For scholarly Excellence as one of the top students in Return on Marketing Investment module (Master's in Analytics course)
 - Scholarship Program to attend Summer School at Soongsil University in South Korea
 
