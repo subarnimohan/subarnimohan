@@ -16,8 +16,8 @@ My name is Subarni. I have a Master's in Analytics from Massey University and a 
 - Python, SQL, Power Bi, Arc GIS Pro, Power Query, Tableau, SAS
 
 ## Professional Certifications
+- Certified Scrum Master (2024)
+- SAS – Massey University Academic Specialisation in Business Analytics for Marketing (2021)
 - Wiley Certified Data Analyst (2020)
 - Hackwagon's Data Science 101 & 102 (2020,2021)
-- SAS – Massey University Academic Specialisation in Business Analytics for Marketing (2021)
-
 
